@@ -13,6 +13,7 @@ The neural network architecture is described by the layerList variable, where ea
 The script generates a PNG image file named "neuralNetworks.png" that visually represents the specified neural network architecture.
 
 <br>
+
 ![nerualNetworks](https://github.com/MuhammetSonmez/NeuralNetworkArchitectureVisualization/assets/127973832/f75eb74c-ffa7-4316-a557-1b755559d12c)
 
 
