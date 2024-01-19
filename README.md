@@ -11,8 +11,9 @@ The neural network architecture is described by the layerList variable, where ea
 
 # Output
 The script generates a PNG image file named "neuralNetworks.png" that visually represents the specified neural network architecture.
+![nerualNetworks](https://github.com/MuhammetSonmez/NeuralNetworkArchitectureVisualization/assets/127973832/f75eb74c-ffa7-4316-a557-1b755559d12c)
 
-<a href="https://raw.githubusercontent.com/MuhammetSonmez/NeuralNetworkArchitectureVisualization/main/nerualNetworks.png"</a>
+
 ## How to Use
 Install Matplotlib using pip install matplotlib.
 Run the script.
